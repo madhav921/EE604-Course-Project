@@ -1,0 +1,7 @@
+Platform MacOS 12.5.1
+Tensorflow version 2.5.0
+Numpy version 1.23.2
+Pandas version 1.4.2
+Matplotlib version 3.5.3
+Cv2 version 4.6.0
+PIL version 9.1.1
