@@ -1,3 +1,7 @@
+Assignments: From EE604 Image processing course
+
+Datathon:
+
 With the help of requirements.txt file check whether your system has all the libraries required in the version mentioned.
 
 0. Remove first row of train_labels.csv
